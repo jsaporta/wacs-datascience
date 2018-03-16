@@ -1,0 +1,2 @@
+# WACS Introduction to Data Science
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jsaporta/wacs-datascience/master?urlpath=lab/tree/Introduction%2520to%2520Data%2520Science.ipynb)
