@@ -1,0 +1,8 @@
+name: wacs-datascience
+dependencies:
+- python=3.6
+- jupyter
+- matplotlib
+- pandas
+- scikit-learn
+- seaborn
